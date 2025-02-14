@@ -1,4 +1,4 @@
-rimport streamlit as st
+import streamlit as st
 from email import email  # Importing your email.py functions
 
 # Set page title and layout
